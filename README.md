@@ -224,5 +224,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 For questions or support, open an issue on GitHub or contact the repository owner.
-Built with  by Manish
+Built by Manish
 
